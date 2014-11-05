@@ -1,5 +1,5 @@
-AsterixDB
-=========
+AsterixDB SQL++ Interface
+=========================
 
 This project is an extension to the AsterixDB project from UCI (https://asterixdb.ics.uci.edu/documentation/index.html).
 
